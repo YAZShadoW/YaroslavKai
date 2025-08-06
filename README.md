@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YaroslavKai
+- 👋 Hi, I’m @YAZShadoW
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning in school.
 - 📫 You can contact me by mail: yaroslav.karapowskiy@gmail.com
