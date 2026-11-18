@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YAZShadoW
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning in school.
+- 🌱 I’m currently learning in university.
 - 📫 You can contact me by mail: yaroslav.karapowskiy@gmail.com
 
 <!---
